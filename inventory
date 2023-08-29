@@ -1,0 +1,4 @@
+[grafana]
+hostname=grafana
+[grafana:vars]
+ansible_python_interpreter = /usr/bin/python3
